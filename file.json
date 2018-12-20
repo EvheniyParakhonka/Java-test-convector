@@ -1,0 +1,272 @@
+{"array": [
+    {
+        "address": "357 Dare Court, Emory, Marshall Islands, 7103",
+        "gender": "female",
+        "latitude": 31.94727,
+        "greeting": "Hello, Lorie Morales! You have 3 unread messages.",
+        "about": "Enim amet reprehenderit sit mollit adipisicing. Pariatur voluptate ut sint culpa non nostrud aliquip occaecat anim exercitation ut culpa occaecat ex. Id consectetur dolor minim nostrud consectetur ex exercitation reprehenderit culpa adipisicing qui magna fugiat. Esse proident mollit eu minim laboris ullamco cupidatat magna aliqua et non duis. Eiusmod excepteur duis culpa id magna deserunt eiusmod sit ipsum.",
+        "index": 0,
+        "registered": "2016-09-20T07:06:59 -03:00",
+        "isActive": true,
+        "picture": "http://placehold.it/32x32",
+        "friends": [
+            {
+                "name": "Melton Moses",
+                "id": 0
+            },
+            {
+                "name": "Liliana Edwards",
+                "id": 1
+            },
+            {
+                "name": "Kristi Mckinney",
+                "id": 2
+            }
+        ],
+        "tags": [
+            "labore",
+            "do",
+            "eiusmod",
+            "aute",
+            "magna",
+            "dolore",
+            "minim"
+        ],
+        "favoriteFruit": "strawberry",
+        "balance": "$2,296.39",
+        "eyeColor": "green",
+        "phone": "+1 (980) 409-3283",
+        "name": "Lorie Morales",
+        "guid": "e348bc27-53bb-4090-bb47-ad72bbe6378b",
+        "company": "ROCKYARD",
+        "_id": "5c1789f0a42b5987f232e9eb",
+        "age": 31,
+        "email": "loriemorales@rockyard.com",
+        "longitude": -129.972641
+    },
+    {
+        "address": "358 Sunnyside Avenue, Eagleville, Nevada, 1390",
+        "gender": "female",
+        "latitude": 52.986815,
+        "greeting": "Hello, Lela Burgess! You have 7 unread messages.",
+        "about": "Fugiat anim magna incididunt non pariatur. Lorem sint consectetur reprehenderit consectetur id. Fugiat sint magna deserunt ullamco quis esse occaecat sint velit do tempor esse. Eiusmod eiusmod adipisicing sit amet incididunt.",
+        "index": 1,
+        "registered": "2017-10-28T05:30:48 -03:00",
+        "isActive": false,
+        "picture": "http://placehold.it/32x32",
+        "friends": [
+            {
+                "name": "Melissa Moon",
+                "id": 0
+            },
+            {
+                "name": "Rush Casey",
+                "id": 1
+            },
+            {
+                "name": "Esther Crosby",
+                "id": 2
+            }
+        ],
+        "tags": [
+            "eu",
+            "culpa",
+            "excepteur",
+            "ea",
+            "deserunt",
+            "voluptate",
+            "et"
+        ],
+        "favoriteFruit": "banana",
+        "balance": "$3,059.12",
+        "eyeColor": "green",
+        "phone": "+1 (901) 463-2778",
+        "name": "Lela Burgess",
+        "guid": "41b3266b-132f-4ab4-938b-5979d8c0a6e4",
+        "company": "BALOOBA",
+        "_id": "5c1789f0f71e5bc3b980c90d",
+        "age": 35,
+        "email": "lelaburgess@balooba.com",
+        "longitude": -164.467478
+    },
+    {
+        "address": "813 Burnett Street, Magnolia, Virginia, 6319",
+        "gender": "male",
+        "latitude": -52.585744,
+        "greeting": "Hello, Munoz Whitley! You have 9 unread messages.",
+        "about": "Duis cupidatat occaecat ipsum ex mollit pariatur sit commodo ullamco amet aliquip magna velit aliquip. Exercitation ex veniam qui nulla duis quis amet eu exercitation laborum. Sit dolor adipisicing cupidatat magna excepteur adipisicing veniam magna irure.",
+        "index": 2,
+        "registered": "2016-07-02T08:18:15 -03:00",
+        "isActive": true,
+        "picture": "http://placehold.it/32x32",
+        "friends": [
+            {
+                "name": "Mcguire Fischer",
+                "id": 0
+            },
+            {
+                "name": "Alexis Barnes",
+                "id": 1
+            },
+            {
+                "name": "Maude Gaines",
+                "id": 2
+            }
+        ],
+        "tags": [
+            "qui",
+            "incididunt",
+            "elit",
+            "nisi",
+            "qui",
+            "veniam",
+            "fugiat"
+        ],
+        "favoriteFruit": "strawberry",
+        "balance": "$3,498.95",
+        "eyeColor": "brown",
+        "phone": "+1 (962) 449-2770",
+        "name": "Munoz Whitley",
+        "guid": "10046561-5a5b-491e-b4b9-ff7f8c09719a",
+        "company": "MENBRAIN",
+        "_id": "5c1789f09fa981b53592ac45",
+        "age": 25,
+        "email": "munozwhitley@menbrain.com",
+        "longitude": -157.991419
+    },
+    {
+        "address": "964 Kane Street, Salix, Georgia, 4577",
+        "gender": "male",
+        "latitude": -85.762445,
+        "greeting": "Hello, Howard Lyons! You have 5 unread messages.",
+        "about": "Laboris consequat pariatur minim tempor consectetur fugiat labore sit sunt et. Consectetur sint adipisicing nostrud do sunt magna non tempor. Laboris in excepteur quis excepteur esse officia incididunt eiusmod sit ea mollit. Incididunt cillum quis esse ex tempor fugiat anim mollit nostrud deserunt et. Consequat nisi elit commodo ut id ex labore enim mollit elit. Duis minim non nostrud nisi esse anim sint nulla adipisicing mollit deserunt dolor. Velit ad dolore sit Lorem aliqua fugiat sit.",
+        "index": 3,
+        "registered": "2016-02-28T10:30:22 -03:00",
+        "isActive": true,
+        "picture": "http://placehold.it/32x32",
+        "friends": [
+            {
+                "name": "Elba Koch",
+                "id": 0
+            },
+            {
+                "name": "Alma Hendrix",
+                "id": 1
+            },
+            {
+                "name": "Celeste Lane",
+                "id": 2
+            }
+        ],
+        "tags": [
+            "quis",
+            "anim",
+            "elit",
+            "nostrud",
+            "tempor",
+            "excepteur",
+            "nulla"
+        ],
+        "favoriteFruit": "banana",
+        "balance": "$1,873.92",
+        "eyeColor": "brown",
+        "phone": "+1 (881) 438-2415",
+        "name": "Howard Lyons",
+        "guid": "1415e804-ca8b-447e-839c-b713d6315b65",
+        "company": "BYTREX",
+        "_id": "5c1789f0ec5b27bf2629a29c",
+        "age": 27,
+        "email": "howardlyons@bytrex.com",
+        "longitude": 101.625287
+    },
+    {
+        "address": "233 Maujer Street, Caspar, New York, 9792",
+        "gender": "male",
+        "latitude": -30.548942,
+        "greeting": "Hello, Holcomb Rojas! You have 9 unread messages.",
+        "about": "Culpa enim ea labore non quis consectetur id do ut ex. Cupidatat eiusmod qui elit ut eu esse. Eu sit Lorem ea ipsum magna commodo esse fugiat qui. Adipisicing quis qui ipsum ipsum laboris incididunt minim laboris.",
+        "index": 4,
+        "registered": "2014-04-02T06:58:54 -04:00",
+        "isActive": false,
+        "picture": "http://placehold.it/32x32",
+        "friends": [
+            {
+                "name": "Garcia Patrick",
+                "id": 0
+            },
+            {
+                "name": "Michael Cobb",
+                "id": 1
+            },
+            {
+                "name": "Day Sullivan",
+                "id": 2
+            }
+        ],
+        "tags": [
+            "adipisicing",
+            "ea",
+            "eiusmod",
+            "voluptate",
+            "nisi",
+            "aliqua",
+            "ipsum"
+        ],
+        "favoriteFruit": "strawberry",
+        "balance": "$1,911.59",
+        "eyeColor": "green",
+        "phone": "+1 (978) 497-3569",
+        "name": "Holcomb Rojas",
+        "guid": "6b1d02b3-db4b-46a5-980b-781afced29f5",
+        "company": "QUALITEX",
+        "_id": "5c1789f0644576704f416593",
+        "age": 24,
+        "email": "holcombrojas@qualitex.com",
+        "longitude": 4.517173
+    },
+    {
+        "address": "296 Harden Street, Cressey, Vermont, 6778",
+        "gender": "female",
+        "latitude": -74.188894,
+        "greeting": "Hello, Rebekah Neal! You have 9 unread messages.",
+        "about": "Irure esse veniam ut sunt magna magna tempor elit pariatur nostrud. Officia labore et eiusmod est minim deserunt id. Anim deserunt consequat Lorem veniam consequat pariatur occaecat. Aliquip pariatur ipsum exercitation ullamco aliquip consequat culpa exercitation ad sint minim do. Velit aliqua consequat anim ea eu incididunt excepteur cillum voluptate sunt nostrud.",
+        "index": 5,
+        "registered": "2018-01-13T03:32:47 -03:00",
+        "isActive": false,
+        "picture": "http://placehold.it/32x32",
+        "friends": [
+            {
+                "name": "Stephenson Howard",
+                "id": 0
+            },
+            {
+                "name": "Leah Quinn",
+                "id": 1
+            },
+            {
+                "name": "Shari Everett",
+                "id": 2
+            }
+        ],
+        "tags": [
+            "sit",
+            "et",
+            "tempor",
+            "officia",
+            "deserunt",
+            "commodo",
+            "incididunt"
+        ],
+        "favoriteFruit": "banana",
+        "balance": "$2,394.92",
+        "eyeColor": "brown",
+        "phone": "+1 (837) 463-3282",
+        "name": "Rebekah Neal",
+        "guid": "e473d748-a45c-49f6-9f51-4db50663e03a",
+        "company": "MEMORA",
+        "_id": "5c1789f08934c11356cdff62",
+        "age": 28,
+        "email": "rebekahneal@memora.com",
+        "longitude": -60.112553
+    }
+]}
